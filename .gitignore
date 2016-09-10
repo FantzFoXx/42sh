@@ -1,0 +1,8 @@
+.21sh_history
+.42sh_history
+.nfs.*
+*.o
+*.a
+*.swp
+bak_trace
+.42sh_logfile
